@@ -2,7 +2,7 @@
 
 A data storytelling project built for a business audience: the Recording Academy's Awards & Categories Committee, deciding whether and how to restructure Grammy categories again after the 2011 cut from 109 to 78.
 
-**[View the full notebook with all charts](https://GH_USER.github.io/grammy-categories-data-visualisation/)**
+**[View the full notebook with all charts](https://ayushramtekkar.github.io/grammy-categories-data-visualisation/)**
 
 ## Business question
 
@@ -32,4 +32,4 @@ Python, pandas, NumPy, Matplotlib
 ## Notes
 
 The dataset is not included in this repo; download it from the Kaggle link above.
-Completed as an individual project for M512 Data Visualisation & Communication, MSc Data Science, AI and Digital Business, Gisma University of Applied Sciences.
+Completed as part of the MSc Data Science, AI and Digital Business, Gisma University of Applied Sciences.
